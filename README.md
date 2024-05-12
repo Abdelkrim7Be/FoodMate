@@ -32,7 +32,7 @@ Open in Browser:
 
 Open your browser and navigate to http://localhost:8000 to see the project in action!
 
-##Dependencies
+##cDependencies
 Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine.
 slugify - A JavaScript library to slugify a string.
 http - Node.js built-in HTTP module.
@@ -41,5 +41,5 @@ url - Node.js URL module.
 Contributing
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
 
-##License
+##cLicense
 This project is licensed under the MIT License.
